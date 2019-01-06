@@ -10,7 +10,7 @@ Design something 🤣🤣🤣
 
 files.forEach(filename => {
     text = text + `
-<img src="./dist/${filename}" width="200px" />
+<img align="left" src="./dist/${filename}" width="200px" />
 `
 })
 
