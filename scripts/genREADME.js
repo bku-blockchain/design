@@ -5,6 +5,7 @@ const files = fs.readdirSync(path.join(__dirname, '../dist'))
 
 let text = `
 # Design
+Design something 🤣🤣🤣
 `
 
 files.forEach(filename => {
