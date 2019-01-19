@@ -3,6 +3,12 @@
 
 <img align="left" src="./0_splash.png" width="200px" />
 
+<img align="left" src="./10_profile+record_0.png" width="200px" />
+
+<img align="left" src="./10_profile+record_1.png" width="200px" />
+
+<img align="left" src="./10_profile+record_2.png" width="200px" />
+
 <img align="left" src="./1_login.png" width="200px" />
 
 <img align="left" src="./2_signup.png" width="200px" />
@@ -18,3 +24,5 @@
 <img align="left" src="./7_change_password.png" width="200px" />
 
 <img align="left" src="./8_qrcode.png" width="200px" />
+
+<img align="left" src="./9_contacts_list.png" width="200px" />

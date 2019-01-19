@@ -2,6 +2,11 @@
 # Design
 Design something 🤣🤣🤣
 
+## Snapshots mobile app
+[View here](./snapshots/README.md)
+
+## Favicon BKU Blockchain Lab
+
 <img align="left" src="./dist/IMG_001.png" width="200px" />
 
 <img align="left" src="./dist/IMG_002.png" width="200px" />
