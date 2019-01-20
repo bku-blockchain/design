@@ -1,10 +1,13 @@
 const fs = require('fs')
 const path = require('path')
 
-const files = fs.readdirSync(path.join(__dirname, './'))
+const files = fs.readdirSync(path.join(__dirname, '../snapshots'))
 
 let text = `
-# Snapshots of mobile app
+# Snapshots of mobile application
+
+Repository: 
+
 `
 
 files.forEach(filename => {
@@ -14,6 +17,6 @@ files.forEach(filename => {
 `
 })
 
-fs.writeFileSync(path.join(__dirname, './README.md'), text)
+fs.writeFileSync(path.join(__dirname, '../mobile_snapshots.md'), text)
 
 console.log('Success');

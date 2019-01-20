@@ -3,7 +3,7 @@
 Design something 🤣🤣🤣
 
 ## Snapshots mobile app
-[View here](./snapshots/README.md)
+[View here](./mobile_snapshots.md)
 
 ## Favicon BKU Blockchain Lab
 
