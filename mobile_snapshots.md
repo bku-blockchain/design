@@ -14,13 +14,17 @@ Repository:
 
 <img align="left" src="./snapshots/IMG_04_profile.png" width="200px" />
 
-<img align="left" src="./snapshots/IMG_05_profile_c.png" width="200px" />
+<img align="left" src="./snapshots/IMG_05_profile_1.png" width="200px" />
 
 <img align="left" src="./snapshots/IMG_06_logout.png" width="200px" />
 
 <img align="left" src="./snapshots/IMG_07_change_password.png" width="200px" />
 
-<img align="left" src="./snapshots/IMG_08_qrcode.png" width="200px" />
+<img align="left" src="./snapshots/IMG_08_qrcode_1_load.png" width="200px" />
+
+<img align="left" src="./snapshots/IMG_08_qrcode_2_valid.png" width="200px" />
+
+<img align="left" src="./snapshots/IMG_08_qrcode_3_expired.png" width="200px" />
 
 <img align="left" src="./snapshots/IMG_09_contacts_list.png" width="200px" />
 
@@ -30,6 +34,8 @@ Repository:
 
 <img align="left" src="./snapshots/IMG_10_profile+record_2.png" width="200px" />
 
+<img align="left" src="./snapshots/IMG_11_2_note.png" width="200px" />
+
 <img align="left" src="./snapshots/IMG_11_scan_contact.png" width="200px" />
 
 <img align="left" src="./snapshots/IMG_12_polling.png" width="200px" />
@@ -38,15 +44,15 @@ Repository:
 
 <img align="left" src="./snapshots/IMG_12_polling_past.png" width="200px" />
 
-<img align="left" src="./snapshots/IMG_13_poll.png" width="200px" />
+<img align="left" src="./snapshots/IMG_13_poll_1_loading.png" width="200px" />
 
-<img align="left" src="./snapshots/IMG_13_poll_loading.png" width="200px" />
+<img align="left" src="./snapshots/IMG_13_poll_2_cur.png" width="200px" />
 
-<img align="left" src="./snapshots/IMG_14_poll_answer.png" width="200px" />
+<img align="left" src="./snapshots/IMG_14_poll_answer_1.png" width="200px" />
 
-<img align="left" src="./snapshots/IMG_14_poll_answer_confirm.png" width="200px" />
+<img align="left" src="./snapshots/IMG_14_poll_answer_2_select.png" width="200px" />
 
-<img align="left" src="./snapshots/IMG_14_poll_answer_select.png" width="200px" />
+<img align="left" src="./snapshots/IMG_14_poll_answer_3_confirm.png" width="200px" />
 
 <img align="left" src="./snapshots/IMG_14_poll_submit_loading.png" width="200px" />
 
