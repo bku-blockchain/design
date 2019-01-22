@@ -42,8 +42,6 @@ Repository:
 
 <img align="left" src="./snapshots/IMG_12_polling_loading.png" width="200px" />
 
-<img align="left" src="./snapshots/IMG_12_polling_past.png" width="200px" />
-
 <img align="left" src="./snapshots/IMG_13_poll_1_loading.png" width="200px" />
 
 <img align="left" src="./snapshots/IMG_13_poll_2_cur.png" width="200px" />
@@ -67,3 +65,19 @@ Repository:
 <img align="left" src="./snapshots/IMG_16_poll_past_voted.png" width="200px" />
 
 <img align="left" src="./snapshots/IMG_17_poll_coming.png" width="200px" />
+
+<img align="left" src="./snapshots/IMG_19_2_book.png" width="200px" />
+
+<img align="left" src="./snapshots/IMG_19_2_confirm_book.png" width="200px" />
+
+<img align="left" src="./snapshots/IMG_19_2_ticket.png" width="200px" />
+
+<img align="left" src="./snapshots/IMG_19_3_ticket.png" width="200px" />
+
+<img align="left" src="./snapshots/IMG_19_events.png" width="200px" />
+
+<img align="left" src="./snapshots/IMG_20_village.png" width="200px" />
+
+<img align="left" src="./snapshots/IMG_20_village_detail.png" width="200px" />
+
+<img align="left" src="./snapshots/IMG_20_village_detail_following.png" width="200px" />
